@@ -1,0 +1,7 @@
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+sa
+37409108
+jdbc:sqlserver://DESKTOP-GLFTCS8:1433;databaseName=FinalLab2
+admin
+admin
+15
